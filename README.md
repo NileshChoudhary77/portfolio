@@ -25,7 +25,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/Deepraj-patel/portfolio.git]
+git clone [https://github.com/Nilesh-Choudhary/portfolio.git]
 cd your-repo-name
 ````
 
